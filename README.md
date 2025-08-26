@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhidul Islam Siam</h1>
 <h3 align="center">UIU CSE 232 | Passionate about Coding and Problem-Solving | Software and Robotics Enthusiast</h3>
 
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **java,C++**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhidul-islam-siam-b66a28247/](https://www.linkedin.com/in/muhidul-islam-siam-b66a28247/)
 
